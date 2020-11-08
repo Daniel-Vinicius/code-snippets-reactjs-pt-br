@@ -1,0 +1,83 @@
+{
+  "Componente Funcional React.js": {
+    "prefix": "comp-funcional-jsx",
+    "body": [
+      "import React from 'react'",
+      "",
+      "export default function Nome(props) {",
+      "",
+      " return (",
+      "",
+      "   <div>",
+      "    <h1>Funcional Básico</h1>",
+      "   </div>",
+      "",
+      ")",
+      "",
+      "}"
+    ]
+  },
+
+  "Componente de Funcional React.js Com Estado": {
+    "prefix": "comp-funcional-com-estado-jsx",
+    "body": [
+      "import React, { useState } from 'react'",
+      "",
+      "function Numero(props) {",
+      "",
+      "const  [numero, setNumero] = useState(0)",
+      "",
+      " return (",
+      "",
+      " <div>",
+      "   <h1>{numero}</h1>",
+      "    <input type='number' placeholder='Informe um número' value={numero} onChange={e => setNumero(e.target.value)} />",
+      " </div>",
+      "",
+      ")",
+      "",
+      "}",
+      "",
+      "export default Numero"
+    ]
+  },
+
+  "Componente de Classe React.js": {
+    "prefix": "comp-classe-jsx",
+    "body": [
+      "import React, { Component } from 'react'",
+      "",
+      "export default class Welcome extends Component {",
+      "",
+      "constructor(props) {",
+      "super(props);",
+      "this.state = {numero: 1}",
+      "}",
+      "",
+      "",
+      "",
+      "render() {",
+      "",
+      " return (",
+      "",
+      " <div>",
+      "   <h1>Olá, {this.props.nome}</h1>;",
+      " </div>",
+      "",
+      ")",
+      "}",
+      "}"
+    ]
+  },
+
+  "Conectar componente do redux com as actions e o estado global": {
+    "prefix": "comp-conectar-com-redux",
+    "body": [
+      "const mapDispatchToProps = dispatch =>  bindActionCreators({ actions}, dispatch);",
+      "",
+      "const mapStateToProps = state => ({  propriedade: state.estado.propriedade  });",
+      "",
+      "export default connect(mapStateToProps, mapDispatchToProps)(Componente);"
+    ]
+  }
+}
