@@ -3,7 +3,7 @@
     "displayName": "React.js Basico em Português",
     "description": "Extensão básica com 4 Code Snippts fáceis de decorar, ótimos pra React.Js",
     "publisher": "Daniel-Vinicius",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "engines": {
         "vscode": "^1.51.0"
     },
