@@ -10,7 +10,6 @@
   - [Instalação](#instala%C3%A7%C3%A3o)
   - [Linguagens Suportadas](#linguagens-suportadas)
   - [Snippets](#snippets)
-- [Contribuição](#contribui%C3%A7%C3%A3o)
 - [Licença](#licen%C3%A7a)
 - [Contato](#contato)
 
