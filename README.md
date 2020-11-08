@@ -36,8 +36,8 @@ Para instalar uma extensão você pode executar o **Command Pallete** através d
 ---
 
 ### Funcionamento
-
-![funcionamento](gif.gif)
+<!-- -->
+![funcionamento](https://github.com/Daniel-Vinicius/code-snippets-reactjs-pt-br/blob/main/gif.gif)
 
 
 [Este Vídeo](https://www.youtube.com/embed/N79yFlSg0-8) mostra o funcionamento da extensão
