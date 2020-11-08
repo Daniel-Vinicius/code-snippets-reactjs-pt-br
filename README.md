@@ -21,7 +21,7 @@
 
 ## Sobre o Projeto
 
-Este projeto visa a disponibilização de um conjunto de Snippets ou atalhos para criação de componentes e arquivos de configuração em aplicações ReactJS. 
+Este projeto visa a disponibilização de um conjunto de Snippets ou atalhos para criação de componentes e arquivos de configuração em aplicações ReactJS. Ele é simples e eficaz.
 
 ## Começando
 
@@ -31,7 +31,7 @@ Para instalar uma extensão você pode executar o **Command Pallete** através d
 
 ### Linguagens Suportadas
 
-- JavaScript React (.jsx)~
+`JavaScript React (.jsx)`
 
 ---
 
