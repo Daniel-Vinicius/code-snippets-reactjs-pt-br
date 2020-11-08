@@ -36,9 +36,9 @@ Para instalar uma extensão você pode executar o **Command Pallete** através d
 
 O Vídeo abaixo mostra o funcionamento da extensão
 
-<!-- ![https://www.youtube.com/embed/N79yFlSg0-8] -->
+![https://www.youtube.com/embed/N79yFlSg0-8]
 
-<iframe width="1366" height="768" src="https://www.youtube.com/embed/N79yFlSg0-8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="1366" height="768" src="https://www.youtube.com/embed/N79yFlSg0-8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 ### Snippets
 
