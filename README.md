@@ -34,9 +34,7 @@ Para instalar uma extensão você pode executar o **Command Pallete** através d
 
 ### Funcionamento
 
-O Vídeo abaixo mostra o funcionamento da extensão:
-
-https://www.youtube.com/embed/N79yFlSg0-8
+[Este Vídeo](https://www.youtube.com/embed/N79yFlSg0-8) mostra o funcionamento da extensão
 
 
 ### Snippets
