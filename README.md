@@ -1,5 +1,8 @@
 # Code Snippets React.js (pt-br)
 
+[![Version](https://vsmarketplacebadge.apphb.com/version/Daniel-Vinicius.code-snipptes-reactjs-pt-br.svg)](https://marketplace.visualstudio.com/items?itemName=Daniel-Vinicius.code-snipptes-reactjs-pt-br)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/Daniel-Vinicius.code-snipptes-reactjs-pt-br.svg)](https://marketplace.visualstudio.com/items?itemName=Daniel-Vinicius.code-snipptes-reactjs-pt-br)
+
 <!-- TABLE OF CONTENTS -->
 
 ## Tabela de Conteúdo
