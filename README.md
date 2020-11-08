@@ -10,7 +10,6 @@
   - [Instalação](#instala%C3%A7%C3%A3o)
   - [Linguagens Suportadas](#linguagens-suportadas)
   - [Snippets](#snippets)
-- [Contribuição](#contribui%C3%A7%C3%A3o)
 - [Licença](#licen%C3%A7a)
 - [Contato](#contato)
 
@@ -34,11 +33,8 @@ Para instalar uma extensão você pode executar o **Command Pallete** através d
 
 ### Funcionamento
 
-O Vídeo abaixo mostra o funcionamento da extensão
+[Este Vídeo](https://www.youtube.com/embed/N79yFlSg0-8) mostra o funcionamento da extensão
 
-<!-- ![https://www.youtube.com/embed/N79yFlSg0-8] -->
-
-<iframe width="1366" height="768" src="https://www.youtube.com/embed/N79yFlSg0-8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Snippets
 
@@ -62,4 +58,4 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## Contato
 
-Daniel-Vinicius - [Github](https://github.com/Daniel-Vinicius) - [Linkedin](https://www.linkedin.com/in/daniel-vinicius-viana/) 
+Daniel-Vinícius - [Github](https://github.com/Daniel-Vinicius) - [Linkedin](https://www.linkedin.com/in/daniel-vinicius-viana/) 
