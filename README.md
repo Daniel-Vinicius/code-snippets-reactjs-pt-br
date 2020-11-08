@@ -56,7 +56,7 @@ Abaixo segue a lista com todos os Snippets disponíveis e os gatilhos para cada 
 
 
 
-## ❤️ Contributors
+## ❤️ Contribuidores
 
 As pessoas que contriburam para o projeto [@Daniel-Vinicius](https://github.com/Daniel-Vinicius)
 
