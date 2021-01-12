@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "code-snipptes-reactjs-pt-br",
   "displayName": "React.js Basico em Português",
   "description": "Extensão básica com 4 Code Snippts fáceis de decorar, ótimos pra React.Js",
@@ -45,3 +46,51 @@
     "url": "https://github.com/Daniel-Vinicius/code-snippets-reactjs-pt-br/issues"
   }
 }
+=======
+    "name": "code-snipptes-reactjs-pt-br",
+    "displayName": "React.js Basico em Português",
+    "description": "Extensão básica com 4 Code Snippts fáceis de decorar, ótimos pra React.Js",
+    "publisher": "Daniel-Vinicius",
+    "version": "0.1.5",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    },
+    "icon": "icon.png",
+    "galleryBanner": {
+      "color": "#282A36",
+      "theme": "dark"
+    },
+    "keywords": [
+      "react",
+      "javascript",
+      "javascriptreact",
+      "javascriptreactjs",
+      "code-snippets",
+      "code-snippets-react",
+      "pt-br",
+      "brazil"
+    ],
+    "repository": {
+      "url": "https://github.com/Daniel-Vinicius/code-snippets-reactjs-pt-br"
+    },
+    "homepage": "https://github.com/Daniel-Vinicius/code-snippets-reactjs-pt-br",
+    "bugs": {
+      "url": "https://github.com/Daniel-Vinicius/code-snippets-reactjs-pt-br/issues"
+    }
+}
+>>>>>>> 4d2d4b5e67ca61380059382bf76a66274f19936b
